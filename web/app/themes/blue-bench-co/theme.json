@@ -244,6 +244,19 @@
 		"useRootPaddingAwareAlignments": true
 	},
 	"styles": {
+		"blocks": {
+			"core/navigation": {
+				"spacing": {
+					"blockGap": "var(--wp--preset--spacing--80)"
+				},
+				"typography": {
+					"fontFamily": "var(--wp--preset--font-family--azeret-mono)",
+					"fontSize": "var(--wp--preset--font-size--small)",
+					"letterSpacing": "0.2em",
+					"textTransform": "uppercase"
+				}
+			}
+		},
 		"elements": {
 			"heading": {
 				"typography": {
