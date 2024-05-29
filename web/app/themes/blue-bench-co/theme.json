@@ -264,6 +264,12 @@
 				}
 			}
 		},
+		"spacing": {
+			"padding": {
+				"left": "var(--wp--preset--spacing--50)",
+				"right": "var(--wp--preset--spacing--50)"
+			}
+		},
 		"typography": {
 			"fontFamily": "var(--wp--preset--font-family--specter)"
 		}
