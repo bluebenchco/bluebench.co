@@ -140,73 +140,73 @@
 							"fontFamily": "Henrietta",
 							"fontStyle": "normal",
 							"fontWeight": "300",
-							"src": "file:./public/fonts/VCHenrietta-Light.woff2"
+							"src": "file:./assets/fonts/VCHenrietta-Light.woff2"
 						},
 						{
 							"fontFamily": "Henrietta",
 							"fontStyle": "italic",
 							"fontWeight": "300",
-							"src": "file:./public/fonts/VCHenrietta-LightItalic.woff2"
+							"src": "file:./assets/fonts/VCHenrietta-LightItalic.woff2"
 						},
 						{
 							"fontFamily": "Henrietta",
 							"fontStyle": "normal",
 							"fontWeight": "400",
-							"src": "file:./public/fonts/VCHenrietta-Regular.woff2"
+							"src": "file:./assets/fonts/VCHenrietta-Regular.woff2"
 						},
 						{
 							"fontFamily": "Henrietta",
 							"fontStyle": "italic",
 							"fontWeight": "400",
-							"src": "file:./public/fonts/VCHenrietta-RegularItalic.woff2"
+							"src": "file:./assets/fonts/VCHenrietta-RegularItalic.woff2"
 						},
 						{
 							"fontFamily": "Henrietta",
 							"fontStyle": "normal",
 							"fontWeight": "500",
-							"src": "file:./public/fonts/VCHenrietta-Medium.woff2"
+							"src": "file:./assets/fonts/VCHenrietta-Medium.woff2"
 						},
 						{
 							"fontFamily": "Henrietta",
 							"fontStyle": "italic",
 							"fontWeight": "500",
-							"src": "file:./public/fonts/VCHenrietta-MediumItalic.woff2"
+							"src": "file:./assets/fonts/VCHenrietta-MediumItalic.woff2"
 						},
 						{
 							"fontFamily": "Henrietta",
 							"fontStyle": "normal",
 							"fontWeight": "600",
-							"src": "file:./public/fonts/VCHenrietta-SemiBold.woff2"
+							"src": "file:./assets/fonts/VCHenrietta-SemiBold.woff2"
 						},
 						{
 							"fontFamily": "Henrietta",
 							"fontStyle": "italic",
 							"fontWeight": "600",
-							"src": "file:./public/fonts/VCHenrietta-SemiBoldItalic.woff2"
+							"src": "file:./assets/fonts/VCHenrietta-SemiBoldItalic.woff2"
 						},
 						{
 							"fontFamily": "Henrietta",
 							"fontStyle": "normal",
 							"fontWeight": "700",
-							"src": "file:./public/fonts/VCHenrietta-Bold.woff2"
+							"src": "file:./assets/fonts/VCHenrietta-Bold.woff2"
 						},
 						{
 							"fontFamily": "Henrietta",
 							"fontStyle": "italic",
 							"fontWeight": "700",
-							"src": "file:./public/fonts/VCHenrietta-BoldItalic.woff2"
+							"src": "file:./assets/fonts/VCHenrietta-BoldItalic.woff2"
 						},
 						{
 							"fontFamily": "Henrietta",
 							"fontStyle": "normal",
 							"fontWeight": "900",
-							"src": "file:./public/fonts/VCHenrietta-Black.woff2"
+							"src": "file:./assets/fonts/VCHenrietta-Black.woff2"
 						},
 						{
 							"fontFamily": "Henrietta",
 							"fontStyle": "italic",
 							"fontWeight": "900",
-							"src": "file:./public/fonts/VCHenrietta-BlackItalic.woff2"
+							"src": "file:./assets/fonts/VCHenrietta-BlackItalic.woff2"
 						}
 					],
 					"fontFamily": "Henrietta, sans-serif",
